@@ -1,0 +1,7 @@
+flask
+joblib
+numpy
+csv
+pandas
+matplotlib
+scikit-learn
